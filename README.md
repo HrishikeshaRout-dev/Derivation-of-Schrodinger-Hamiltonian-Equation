@@ -1,0 +1,1 @@
+# Derivation-of-Schrodinger-Hamiltonian-Equation
